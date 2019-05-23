@@ -4,3 +4,11 @@ Makefile
 cmake_install.cmake
 install_manifest.txt
 build
+*.kdev4
+kdev4/
+*.user
+*.user*
+*~
+*.swp
+*.autosave
+
